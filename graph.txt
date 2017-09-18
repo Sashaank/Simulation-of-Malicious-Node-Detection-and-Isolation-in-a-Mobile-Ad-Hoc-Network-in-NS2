@@ -1,0 +1,15 @@
+TitleText: Throughput(kbps) vs Time(seconds)
+YUnitText: Throughput(kbps)
+XUnitText: Time(s)
+0.Color: blue
+1.Color: red
+"NonMal"
+1 128
+3 536
+5 512
+
+"Mal"
+1 128
+3 272
+5 0
+
